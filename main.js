@@ -8,7 +8,7 @@ myModal.addEventListener('shown.bs.modal', () => {
 
 let app = document.getElementById("typewriter");
 
-let typewriter = new Typewriter(app, 
+let typewriter = new typewriter(app, 
 {
     loop: true,
     delay:75,

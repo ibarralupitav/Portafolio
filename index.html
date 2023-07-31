@@ -69,6 +69,7 @@
           Actualmente soy Estudiante del Colegio de Bachilleres Plantel 06 Pinos de quinto semestre en bachillerato
           general
         </p>
+        <img src="Images\escuela.jpg" alt="escuela">
       </div>
     </div>
   </section>
@@ -138,11 +139,30 @@
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p>Modal body text goes here.</p>
+            <form class="row g-3">
+              <div class="col-md-6">
+                <div class="col-md-6">
+                  <label for="inputNombre4" class="form-label">Nombre</label>
+                  <input type="name" class="form-control" id="inputNombre">
+                </div>
+                <label for="inputApellido4" class="form-label">Apellido</label>
+                <input type="last name" class="form-control" id="inputApellido4">
+              </div>
+              <div class="col-12">
+                <label for="inputCorreo" class="form-label">Correo</label>
+                <input type="email" class="form-control" id="inputEmail" placeholder="Gomez@gmail">
+              </div>
+              <div class="mb-3">
+                <label for="exampleFormControlTextarea1" class="form-label">Escribe un mensaje para contactar conmigo</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+              </div>
+              <div class="col-12">
+                <button type="submit" class="btn btn-primary">Enviar</button>
+              </div>
+            </form>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-            <button type="button" class="btn btn-primary">Save changes</button>
           </div>
         </div>
       </div>
