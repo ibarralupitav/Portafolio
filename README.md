@@ -10,6 +10,9 @@ Incluye una descripción de su motivación, experiencia, proyectos, articulos pu
 
 Tambien contiene una sección de almacenamiento de archivos (imagenes) que nos permite modificar la imagen de perfil del desarrolador y contiene una animación con JavaScript.
 
+![imagen]("images/Pagina_web.png")
+![imagen](Images/Pagina_web.png")
+
 ## Tecnologias
 
 Esta página fue creada con:
