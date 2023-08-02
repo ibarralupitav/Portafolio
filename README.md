@@ -31,3 +31,6 @@ El texto de la página web esta escrito en español, sin embargo las clases rela
 
 Desarrollado por: Guadalupe Ibarra en Tecnolochicas PRO Summer Camp.
 [Guadalupe Ibarra](https://www.linkedin.com/in/guadalupe-ibarra-v%C3%A1zquez-b81114285/)
+
+### Nota
+Por alguna razon las imagenes no cargan, he intentado miles de veces pero no cambia nada
